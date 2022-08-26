@@ -6,6 +6,28 @@ npm install @react-navigation/bottom-tabs
 npm install @react-navigation/drawer
 yarn add @react-navigation/bottom-tabs
 yarn add @react-navigation/drawer
+-------> styled components
+https://styled-components.com/docs/basics#installation
+# with npm
+npm install --save styled-components
+
+# with yarn
+yarn add styled-components
+
+#acrecentando 
+
+yarn add @types-components-react-native
+
+
+In package.json:
+
+{
+  "resolutions": {
+    "styled-components": "^5"
+  }
+}
+
+
 ------->banco async - https://react-native-async-storage.github.io/async-storage/docs/install
 npm install @react-native-async-storage/async-storage
 yarn add @react-native-async-storage/async-storage
